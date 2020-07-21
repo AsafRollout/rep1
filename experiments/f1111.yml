@@ -1,0 +1,19 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: f 111
+labels: lbl1
+flag: f1111
+conditions:
+  - property:
+      name: email
+      operator: in-array
+      operand:
+        - a@a.com
+        - b@b.com
+    value: false
+  - property:
+      name: numberProperty
+      operator: lt
+      operand: 5
+    value: true
+value: true
