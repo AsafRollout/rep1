@@ -1,0 +1,4 @@
+type: experiment
+name: gogo
+flag: f.gogo1
+value: true
