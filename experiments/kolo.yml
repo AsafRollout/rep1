@@ -1,0 +1,4 @@
+type: experiment
+name: kolo
+flag: f.kolo
+value: false
