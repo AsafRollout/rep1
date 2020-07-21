@@ -2,4 +2,4 @@
 type: experiment
 name: some name
 flag: f.newFlag2
-value: false
+value: true
