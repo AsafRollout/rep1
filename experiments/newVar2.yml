@@ -2,7 +2,7 @@
 type: experiment
 name: exp1
 flag: newVar2
-availableOptions:
+availableValues:
   - val2
   - val1
 value: val2
