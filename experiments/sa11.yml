@@ -3,6 +3,6 @@ type: experiment
 name: sa 11
 flag: sa11
 availableValues:
-  - s1
   - s2
-value: s1
+  - s1
+value: s2
