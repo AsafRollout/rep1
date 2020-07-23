@@ -3,4 +3,6 @@ type: experiment
 name: str 12
 flag: str12
 availableValues:
+  - s1
   - s2
+value: s1
