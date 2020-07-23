@@ -3,4 +3,4 @@ name: asdf
 conditions:
   - operator: ne
     property: rox.app_release
-    operand: '331'
+    operand: '32'
