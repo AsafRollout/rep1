@@ -1,6 +1,5 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
-name: exp1
 flag: newVar2
 availableValues:
   - val2
