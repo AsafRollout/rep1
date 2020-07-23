@@ -5,4 +5,13 @@ flag: str12
 availableValues:
   - s1
   - s2
+conditions:
+  - dependency:
+      flag: flag12
+      value: 'true'
+    value:
+      - percentage: 50
+        option: s1
+      - percentage: 50
+        option: s2
 value: s1
