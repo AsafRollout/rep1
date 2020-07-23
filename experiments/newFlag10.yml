@@ -1,5 +1,4 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
-name: exp1
 flag: newFlag10
 value: true
