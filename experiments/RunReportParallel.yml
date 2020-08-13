@@ -5,4 +5,8 @@ flag: RunReportParallel
 availableValues:
   - '234'
   - '123'
-value: []
+value:
+  - option: '234'
+    percentage: 90
+  - option: '123'
+    percentage: 10
