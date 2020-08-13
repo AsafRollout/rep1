@@ -5,3 +5,4 @@ flag: RunReportParallel
 availableValues:
   - '123'
   - '234'
+value: []
