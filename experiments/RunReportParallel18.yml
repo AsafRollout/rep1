@@ -1,0 +1,18 @@
+# This file was edited by CloudBees Feature Flags
+type: experiment
+name: Run Report Parallel18
+flag: RunReportParallel18
+availableValues:
+  - '4'
+  - '123'
+  - ''
+conditions:
+  - version:
+      operator: semver-eq
+      semver: 1.0.0
+    value: ''
+value:
+  - percentage: 50
+    option: ''
+  - percentage: 50
+    option: '123'
