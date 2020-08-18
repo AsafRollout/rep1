@@ -1,0 +1,14 @@
+# This file was edited by CloudBees Feature Flags
+type: experiment
+name: Run Report Parallel20
+flag: RunReportParallel20
+availableValues:
+  - 0
+  - 5
+  - 6
+conditions:
+  - version:
+      operator: semver-eq
+      semver: 1.0.0
+    value: 0
+value: 0
