@@ -11,8 +11,3 @@ conditions:
       operator: semver-eq
       semver: 1.0.0
     value: null
-value:
-  - percentage: 50
-    option: 5
-  - percentage: 50
-    option: 0
