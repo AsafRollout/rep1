@@ -11,3 +11,4 @@ conditions:
       operator: semver-eq
       semver: 1.0.0
     value: null
+value: null
