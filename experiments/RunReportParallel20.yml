@@ -3,12 +3,11 @@ type: experiment
 name: Run Report Parallel20
 flag: RunReportParallel20
 availableValues:
-  - 5
   - 6
+  - 5
   - 0
 conditions:
   - version:
       operator: semver-eq
       semver: 1.0.0
-    value: null
-value: null
+    value: 6
