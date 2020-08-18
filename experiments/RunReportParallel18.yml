@@ -3,14 +3,14 @@ type: experiment
 name: Run Report Parallel18
 flag: RunReportParallel18
 availableValues:
-  - '4'
-  - '123'
   - ''
+  - '123'
+  - '4'
 conditions:
   - version:
       operator: semver-eq
       semver: 1.0.0
-    value: null
+    value: ''
 value:
   - percentage: 50
     option: ''
