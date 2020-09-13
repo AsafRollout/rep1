@@ -4,3 +4,4 @@ name: Run Report Parallel 22
 flag: RunReportParallel22
 availableValues:
   - ''
+value: ''
