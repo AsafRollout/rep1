@@ -1,6 +1,17 @@
 type: target-group
 name: asdf
 conditions:
+  - operator: in-array
+    property: contextBasedEmail
+    operand:
+      - '345'
+      - '123'
+      - '444'
+      - '666'
+      - '777'
   - operator: ne
-    property: rox.app_release
-    operand: '32'
+    property: contextBasedEmail
+    operand: '234'
+  - operator: ne
+    property: contextBasedEmail
+    operand: '234'
