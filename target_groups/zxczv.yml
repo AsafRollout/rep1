@@ -1,0 +1,12 @@
+type: target-group
+name: zxczv
+conditions:
+  - operator: in-array
+    property: email
+    operand:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
