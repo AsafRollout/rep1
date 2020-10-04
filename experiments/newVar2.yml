@@ -1,7 +1,0 @@
-# This file was edited by Cloudbees Feature Flags
-type: experiment
-flag: newVar2
-availableValues:
-  - val2
-  - val1
-value: val2

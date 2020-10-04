@@ -1,9 +1,0 @@
-# This file was edited by Cloudbees Feature Flags
-type: experiment
-name: first var
-flag: first_var
-availableValues:
-  - blue
-  - green
-  - red
-value: blue

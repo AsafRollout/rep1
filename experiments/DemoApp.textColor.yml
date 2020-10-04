@@ -1,8 +1,0 @@
-# This file was edited by CloudBees Feature Flags
-type: experiment
-flag: DemoApp.textColor
-availableValues:
-  - '123'
-  - black
-  - zzz
-value: '123'

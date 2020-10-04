@@ -1,9 +1,0 @@
-# This file was edited by Cloudbees Feature Flags
-type: experiment
-name: variant flag
-flag: variant_flag
-availableValues:
-  - yellow
-  - red
-  - blue
-value: red

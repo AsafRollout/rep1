@@ -1,6 +1,0 @@
-# This file was edited by Cloudbees Feature Flags
-type: experiment
-name: video chat
-labels: aaa
-flag: ns.videoChat
-value: true

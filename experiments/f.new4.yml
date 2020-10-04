@@ -1,4 +1,0 @@
-type: experiment
-name: some name
-flag: f.new4
-value: true

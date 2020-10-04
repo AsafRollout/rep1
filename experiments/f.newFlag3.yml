@@ -1,5 +1,0 @@
-# This file was edited by Cloudbees Feature Flags
-type: experiment
-name: some name
-flag: f.newFlag3
-value: false
